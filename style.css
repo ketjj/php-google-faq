@@ -108,10 +108,14 @@ main h4{
 }
 main p {
  font-size:15px;
+ font-weight: 400;
 }
 main p a{
-  color:rgb(71, 71, 224);
+  color:rgb(33, 33, 210);
 }
 main p a:hover{
   color:rgb(47, 47, 234);
+}
+main p i {
+  font-size: 10px;
 }
